@@ -5,7 +5,7 @@ The goal of this project was to create a database and website that allows the us
 
 [Video Featuring All Features of the Project](https://drive.google.com/file/d/1tCNIv0OSV_TU2gjSlar0YlXcMogr8-xe/view?usp=sharing)
 
-This was a group project\
+This was a group project
 
 ***All code written by me is located in mainPage.jsp, cusrepPage (folder) and mainPage (folder)***\
 This includes functionality for:
